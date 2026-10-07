@@ -1,0 +1,18 @@
+# Java compiled bytecode & build outputs
+*.class
+bin/
+target/
+
+# Keystores & Certificates (protect private keys)
+*.p12
+*.jks
+keystore.p12
+
+# Lead inquiry logs
+leads.jsonl
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
